@@ -1,6 +1,6 @@
 ## Hi I'm Rinish Ojha 👋
 
-- 🔭 I’m Full Stack Web Developer, Actively looking for new opportunities
+- 🔭 I’m Full Stack Web Developer,Actively looking for new opportunities.
 - 🌱 I love building things that work efficiently and looks great.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
