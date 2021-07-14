@@ -6,6 +6,8 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,6 +24,6 @@
 <details>
 <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=lokeshnimje&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=Rinish94&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
 </details>
